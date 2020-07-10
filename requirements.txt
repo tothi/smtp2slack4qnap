@@ -1,0 +1,4 @@
+asyncio
+aiosmtpd
+requests
+html2text
